@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-
+- ⚙️ I'm Mechanic Engineer migranting to IT.
 - 🔭 I’m currently working to improove my dev's skills
 - 🌱 I’m currently learning git/github, SQL Server, Jira, ETL/SSIS, Python,...
-- 👯 I’m looking to collaborate on any back-end junior project where I can practice my skills.
+- 👯 I’m looking to collaborate on any back-end junior project where I can practice and test my skills.
 - 🤔 I’m looking for help with find a job.
 - 💬 Ask me about 
 
